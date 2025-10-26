@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : QR_Engine
+Version: U-2022.12
+Date   : Sun Dec 17 00:37:51 2023
+****************************************
+
+Library(s) Used:
+
+    slow (File: /home/raid7_2/course/cvsd/CBDK_IC_Contest/CIC/SynopsysDC/db/slow.db)
+
+Number of ports:                         1405
+Number of nets:                         34105
+Number of cells:                        30892
+Number of combinational cells:          28239
+Number of sequential cells:              2376
+Number of macros/black boxes:               0
+Number of buf/inv:                       5928
+Number of references:                     472
+
+Combinational area:             466793.486211
+Buf/Inv area:                    45848.471327
+Noncombinational area:           80139.344679
+Macro/Black Box area:                0.000000
+Net Interconnect area:         3304949.922974
+
+Total cell area:                546932.830889
+Total area:                    3851882.753863
+1
